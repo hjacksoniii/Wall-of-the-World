@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<meta http-equiv="REFRESH" content="0;url=http://www.example.com/wall/"></head>
+<meta http-equiv="REFRESH" content="0;url=http://54.214.248.192/Wall-of-the-World-master/"></head>
 <body>
 <?php
 if (($_POST['name']) != '')
